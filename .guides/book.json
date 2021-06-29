@@ -1,0 +1,17 @@
+{
+ "name": "APIExampleSpotify",
+ "children": [
+  {
+   "title": "Page 1",
+   "id": "4e2d9ffb-85d1-b9e5-4936-af07a4a3791a",
+   "pageId": "4e2d9ffb-85d1-b9e5-4936-af07a4a3791a",
+   "type": "page"
+  },
+  {
+   "title": "Page 2",
+   "id": "1c4cacaa-9687-09dc-e147-43785a3e9787",
+   "pageId": "1c4cacaa-9687-09dc-e147-43785a3e9787",
+   "type": "page"
+  }
+ ]
+}
